@@ -1,6 +1,6 @@
 # Qualcomm-RB3-Gen2-Smart-Security
 
-## Advantages of IQ9075
+## Advantages of RB3 Gen2
 
 1. RB3 Gen2 can provide up to 12 TOPS of AI computing power and supports GPU and DSP accelerated computing
 2. The Qualcomm Neural Processing (SNPE) SDK and the Qualcomm AI Engine Direct (QNN)can optimize the performance of trained neural networks
@@ -8,12 +8,11 @@
 
 ## Performance Metrics
 
-- **AI Model**:
-- 圖文多模態 (Vision-Language)：MobileCLIP-S2
+- **AI Model**: MobileCLIP-S2
 
 ## Hardware
 
-- **Platform**: Qualcomm QCS6490 (Dragonwing RB3 Gen 2)
+- **Platform**: [Dragonwing RB3 Gen2](https://www.qualcomm.com/developer/hardware/rb3-gen-2-development-kit)
 - **Cameras**:  4 × USB cameras (2 × USB 3.0 ports, 2 × Type-C via USB Hub)
 - **Connectivity**:  Wi-Fi + Bluetooth Low Energy (BLE)
 
